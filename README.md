@@ -1,33 +1,34 @@
 # 👋 Hi, I'm Aayus Prasai (`code.r64`)
 
-**Backend Developer & AI/ML Engineer building production-ready systems.**
+**Backend Developer | AI/ML Engineer | Cloud Enthusiast**
 
 ---
 
 ## 🚀 About Me
-I specialize in **backend development, AI/ML integration, and cloud-native applications**.  
-I enjoy turning ideas into scalable systems that work in **real-world environments** using **Java (Spring Boot), Python, AI/ML, Docker, and cloud platforms (AWS & Google Cloud)**.
+I build **scalable backend systems**, integrate **AI/ML models**, and deploy **cloud-native applications**.  
+I specialize in **Java (Spring Boot), Python, PHP, AI/ML, Docker**, and work with **AWS & Google Cloud** for production-ready systems.
 
 ---
 
-## 🧠 What I Do
-- Build **scalable backend systems** with Spring Boot and Python  
-- Integrate **AI/ML models** into production-ready applications  
-- Containerize apps with **Docker** for smooth deployments  
-- Deploy and manage services on **AWS** and **Google Cloud**  
-- Write clean, efficient, and maintainable code
-
----
-
-## 🛠 Tech Stack
+## 🧰 Tech Stack
 
 ### 💻 Languages
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
-### ⚙️ Backend
+### ⚙️ Backend Frameworks
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+
+### 🗄 Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![Qdrant](https://img.shields.io/badge/Qdrant-000000?style=for-the-badge&logo=qdrant&logoColor=white)
 
 ### 🤖 AI / ML
 ![Machine Learning](https://img.shields.io/badge/Machine_Learning-102230?style=for-the-badge)
@@ -42,41 +43,32 @@ I enjoy turning ideas into scalable systems that work in **real-world environmen
 ---
 
 ## 🔥 Projects
-
-### 🔹 AI Tools & Assistants
-- Built **AI-powered tools** for productivity and automation  
-- Integrated Python ML models into backend workflows  
-
-### 🔹 Backend Systems (Spring Boot)
-- Developed scalable **REST APIs** and microservices  
-- Implemented clean architecture and modular code  
-
-### 🔹 Cloud-Integrated Applications
-- Deployed containerized apps using **Docker + AWS/GCP**  
-- Managed CI/CD pipelines for production readiness  
+- **AI-Powered Tools & Assistants**: Python ML models integrated into backend workflows  
+- **Scalable Backend Systems**: REST APIs & microservices using Spring Boot, Laravel, Django, Flask  
+- **Cloud & Docker Deployments**: Containerized apps deployed on AWS & Google Cloud  
 
 ---
 
 ## 🛠 Currently Working On
 - AI + Backend integrated systems  
 - Dockerized apps for **cloud deployment**  
-- Optimizing backend services for scalability  
+- Optimizing backend services for **scalability and performance**  
 
 ---
 
 ## 📊 GitHub Stats
-![Aayus's GitHub stats](https://github-readme-stats.vercel.app/api?username=prasai-ap&show_icons=true&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=prasai-ap&show_icons=true&theme=dark&hide=issues)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prasai-ap&layout=compact&theme=dark)
 
 ---
 
 ## 📫 Connect with Me
-- LinkedIn: www.linkedin.com/in/aayus-prasai-29568219a  
-- GitHub: https://github.com/prasai-ap  
+- LinkedIn: [linkedin.com/in/YOUR_LINK](https://www.linkedin.com/in/YOUR_LINK)  
+- GitHub: [github.com/prasai-ap](https://github.com/prasai-ap)  
 
 ---
 
 ## ⚡ Fun Fact
-I like building **systems that actually work in real environments** — not just experiments.  
+I enjoy building **systems that actually work in production** — not just experiments.  
 And yes, I may or may not be teaching my Rottweiler some backend tricks 🐕
