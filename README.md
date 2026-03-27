@@ -64,7 +64,7 @@ I specialize in **Java (Spring Boot), Python, PHP, AI/ML, Docker**, and work wit
 ---
 
 ## 📫 Connect with Me
-- LinkedIn: [linkedin.com/in/YOUR_LINK](https://www.linkedin.com/in/YOUR_LINK)  
+- LinkedIn: [linkedin.com/in/YOUR_LINK](www.linkedin.com/in/aayus-prasai-29568219a)  
 - GitHub: [github.com/prasai-ap](https://github.com/prasai-ap)  
 
 ---
