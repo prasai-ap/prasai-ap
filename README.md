@@ -1,7 +1,7 @@
 # 👋 Aayus Prasai | code.r64
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=2500&color=00F7FF&center=true&vCenter=true&width=700&lines=Software+Backend+Engineer;AI%2FML+Systems+Researcher+Developer;Data+Pipelines+%7C+Computer+Vision;Building+Real+Production+Systems;Automobile+&+Tech+Enthusiast" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=2500&color=00F7FF&center=true&vCenter=true&width=700&lines=Software+Backend+Engineer;AI%2FML+Systems+Researcher+Developer;Data+Pipelines+%7C+Computer+Vision;Building+Real+Production+Systems;Automobile+Tech+Enthusiast" />
 </p>
 
 ---
