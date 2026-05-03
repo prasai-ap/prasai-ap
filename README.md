@@ -1,82 +1,95 @@
-# 👋 Hi, I'm Aayus Prasai (`code.r64`)
+# 👋 Hi, I'm Aayus Prasai
 
-**Backend Developer | AI/ML Engineer | Cloud Enthusiast**
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Backend+Engineer;Applied+AI%2FML+Builder;Data+%2B+AI+%2B+Cloud+Systems" />
+</p>
 
 ---
 
 ## 🚀 About Me
-I build **scalable backend systems and AI-powered applications** that solve real-world problems.
+I build **production-ready backend systems integrated with AI/ML models**.
 
-My focus is on combining **Java (Spring Boot), Python, AI/ML, and cloud technologies** to create **production-ready systems**, not just experiments.
+Focused on:
+- ⚙️ Scalable APIs & backend systems  
+- 🤖 Applied Machine Learning (Computer Vision, NLP)  
+- 📊 Data pipelines & real-world data processing  
+- ☁️ Deployment using Docker & cloud infrastructure  
 
 ---
 
-## 📊 Profile Overview
-- 🗂 20+ repositories (public + private)  
+## 📊 Profile Snapshot
+- 🗂 **20+ repositories**
+- 🔥 **Consistent commits & active development**
 - 🧠 Focus: Backend systems + AI integration  
-- ⚡ Strong in: Java (Spring Boot), Python  
-- 🤖 AI: Machine Learning, Deep Learning, Computer Vision  
-- 🛠 Built with: APIs, ML models, Docker, Cloud  
+- ⚡ Strong in: Python, Java (Spring Boot)
 
 ---
 
-## 🧰 Tech Stack
-
-### 💻 Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-
-### ⚙️ Backend Frameworks
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-
-### 🗄 Databases
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-![Qdrant](https://img.shields.io/badge/Qdrant-000000?style=for-the-badge)
-
-### 🤖 AI / ML
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-102230?style=for-the-badge)
-![Deep Learning](https://img.shields.io/badge/Deep_Learning-8A2BE2?style=for-the-badge)
-![Computer Vision](https://img.shields.io/badge/Computer_Vision-FF1493?style=for-the-badge)
-![Neural Networks](https://img.shields.io/badge/Neural_Networks-FF6F00?style=for-the-badge)
-
-### ☁️ Cloud & DevOps
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-F8BC00?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+## 🧠 Core Strengths
+- **Backend Engineering:** FastAPI, Django, Spring Boot  
+- **Applied ML:** YOLO, OpenCV, NLP  
+- **Data Systems:** Web scraping, pipelines  
+- **Deployment:** Docker, AWS EC2  
 
 ---
 
-## 🔥 Work Highlights
-- Built **AI-powered tools** integrating ML/DL models into backend systems  
-- Developed **scalable REST APIs & microservices**  
-- Worked on **Computer Vision and Neural Network-based solutions**  
-- Deployed **Dockerized applications on AWS & Google Cloud**  
-- Designed systems connecting **AI models → APIs → real-world usage**  
+## 🔧 Featured Work
+
+### 🔍 Image-Based Search System
+- Built using **YOLO (object detection)**
+- Created dataset using **Label Studio**
+- Integrated ML model into backend API
+
+### 🤖 AI Travel Assistant
+- LLM system using **Amazon Bedrock**
+- FastAPI backend + Docker deployment
+
+### 📊 Data Pipelines
+- Python scraping + data processing workflows
 
 ---
 
-## 🛠 Currently Working On
-- AI + Backend integrated systems  
-- Computer Vision & Deep Learning applications  
-- Dockerized cloud deployments  
-- Improving system design & scalability  
+## 🛠 Tech Stack
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,java,fastapi,django,spring,postgres,mysql,docker,aws,git" />
+</p>
 
 ---
 
-## 📫 Connect with Me
-- LinkedIn: https://www.linkedin.com/in/aayus-prasai-29568219a  
-- GitHub: https://github.com/prasai-ap  
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=prasai-ap&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prasai-ap&theme=tokyonight&hide_border=true" height="160"/>
+</p>
 
 ---
 
-## ⚡ Personal Note
-I focus on building systems that actually work in real environments — not just ideas.  
-And yes, my Rottweiler might be my unofficial code reviewer 🐕
+## 📊 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=prasai-ap&theme=tokyo-night&hide_border=true" />
+</p>
+
+---
+
+## 📈 What I'm Working On
+- End-to-end AI systems (data → model → API → deployment)  
+- Scalable backend architecture  
+- Data engineering & ML infrastructure  
+
+---
+
+## 📫 Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/aayus-prasai-29568219a">
+    <img src="https://img.shields.io/badge/LinkedIn-Aayus_Prasai-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+</p>
+
+---
+
+## ⚡ Final Note
+I build systems that **run in real environments**, not just notebooks.
