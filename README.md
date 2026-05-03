@@ -1,7 +1,7 @@
 # 👋 Aayus Prasai | code.r64
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=2500&color=00F7FF&center=true&vCenter=true&width=700&lines=Backend+Engineer;AI%2FML+Systems+Researcher+Developer;Data+Pipelines+%7C+Computer+Vision;Building+Real+Production+Systems" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=2500&color=00F7FF&center=true&vCenter=true&width=700&lines=Software+Backend+Engineer;AI%2FML+Systems+Researcher+Developer;Data+Pipelines+%7C+Computer+Vision;Building+Real+Production+Systems;Automobile+&+Tech+Enthusiast" />
 </p>
 
 ---
@@ -9,7 +9,7 @@
 ## 🚀 Who I Am
 I build **backend systems powered by data and machine learning** — designed to run in real environments, not just demos.
 
-- Backend-first engineer with **AI/ML integration experience**
+- Software & Backend-first engineer with **AI/ML training and integration experience**
 - AI/ML Systems Researcher and Developer
 - Built systems connecting **data → model → API → deployment**
 - Focused on **scalability, performance, and real-world usage**
