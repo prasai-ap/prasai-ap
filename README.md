@@ -1,72 +1,61 @@
-# 👋 Hi, I'm Aayus Prasai
+# 👋 Aayus Prasai | code.r64
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Backend+Engineer;Applied+AI%2FML+Builder;Data+%2B+AI+%2B+Cloud+Systems" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=2500&color=00F7FF&center=true&vCenter=true&width=700&lines=Backend+Engineer;Applied+AI%2FML+Systems;Data+Pipelines+%7C+Computer+Vision;Building+Real+Production+Systems" />
 </p>
 
 ---
 
-## 🚀 About Me
-I build **production-ready backend systems integrated with AI/ML models**.
+## 🚀 Who I Am
+I build **backend systems powered by data and machine learning** — designed to run in real environments, not just demos.
 
-Focused on:
-- ⚙️ Scalable APIs & backend systems  
-- 🤖 Applied Machine Learning (Computer Vision, NLP)  
-- 📊 Data pipelines & real-world data processing  
-- ☁️ Deployment using Docker & cloud infrastructure  
+- Backend-first engineer with **AI/ML integration experience**
+- Built systems connecting **data → model → API → deployment**
+- Focused on **scalability, performance, and real-world usage**
 
 ---
 
-## 📊 Profile Snapshot
-- 🗂 **20+ repositories**
-- 🔥 **Consistent commits & active development**
-- 🧠 Focus: Backend systems + AI integration  
-- ⚡ Strong in: Python, Java (Spring Boot)
+## ⚡ What I Actually Do
+- Design and build **FastAPI/Django backend systems**
+- Develop **data pipelines (scraping → processing → serving)**
+- Train and integrate **ML models (YOLO, NLP)**
+- Deploy **containerized applications on AWS**
+- Experience with **Laravel/PHP for backend development**
 
 ---
 
-## 🧠 Core Strengths
-- **Backend Engineering:** FastAPI, Django, Spring Boot  
-- **Applied ML:** YOLO, OpenCV, NLP  
-- **Data Systems:** Web scraping, pipelines  
-- **Deployment:** Docker, AWS EC2  
+## 🧠 Proof of Work
 
----
+### 🔍 Image-Based Search System (Computer Vision)
+- Trained and deployed **YOLO-based detection system**
+- Created labeled dataset using **Label Studio**
+- Integrated model with backend API for real-time search
 
-## 🔧 Featured Work
-
-### 🔍 Image-Based Search System
-- Built using **YOLO (object detection)**
-- Created dataset using **Label Studio**
-- Integrated ML model into backend API
-
-### 🤖 AI Travel Assistant
-- LLM system using **Amazon Bedrock**
-- FastAPI backend + Docker deployment
+### 🤖 AI Travel Assistant (LLM System)
+- Built LLM-powered assistant using **Amazon Bedrock**
+- Designed backend with **FastAPI**
+- Deployed with **Docker + AWS**
 
 ### 📊 Data Pipelines
-- Python scraping + data processing workflows
+- Built Python-based scraping systems
+- Structured and processed data for real-world use
 
 ---
 
 ## 🛠 Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,java,fastapi,django,spring,postgres,mysql,docker,aws,git" />
+<img src="https://skillicons.dev/icons?i=python,java,php,fastapi,django,laravel,spring,postgres,mysql,docker,aws,git" />
 </p>
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Activity
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=prasai-ap&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=prasai-ap&theme=tokyonight&hide_border=true" height="160"/>
 </p>
-
----
-
-## 📊 Contribution Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=prasai-ap&theme=tokyo-night&hide_border=true" />
@@ -74,22 +63,17 @@ Focused on:
 
 ---
 
-## 📈 What I'm Working On
-- End-to-end AI systems (data → model → API → deployment)  
-- Scalable backend architecture  
-- Data engineering & ML infrastructure  
+## 📈 Current Focus
+- End-to-end AI systems (data → model → API → deployment)
+- Backend scalability & system design
+- Data engineering & ML infrastructure
 
 ---
 
 ## 📫 Connect
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/aayus-prasai-29568219a">
-    <img src="https://img.shields.io/badge/LinkedIn-Aayus_Prasai-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-</p>
+- LinkedIn: https://www.linkedin.com/in/aayus-prasai-29568219a  
 
 ---
 
-## ⚡ Final Note
-I build systems that **run in real environments**, not just notebooks.
+## ⚡ Reality
+I build systems that **run in real environments** — not just notebooks or demos.
