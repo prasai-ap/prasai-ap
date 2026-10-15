@@ -57,7 +57,6 @@ My interests sit at the intersection of software engineering and applied AI: rel
   <a href="#04--engineering-stack">TECH STACK</a> &nbsp; ◈ &nbsp;
   <a href="#05--system-design">ARCHITECTURE</a> &nbsp; ◈ &nbsp;
   <a href="#06--github-telemetry">GITHUB</a> &nbsp; ◈ &nbsp;
-  <a href="#07--current-research">RESEARCH</a> &nbsp; ◈ &nbsp;
   <a href="#08--connect">CONNECT</a>
 </p>
 
@@ -282,42 +281,7 @@ My goal is to understand the complete system: how data enters, how it is transfo
 
 ---
 
-## `07` / CURRENT RESEARCH
-
-**Current direction:** understanding how to build software systems that are reliable, measurable, and useful beyond a proof of concept.
-
-| Area | What I am exploring |
-|---|---|
-| AI systems | Retrieval quality, LLM applications, model integration |
-| Backend engineering | API design, data modelling, architecture, reliability |
-| Software engineering intelligence | Change-impact prediction and dependency analysis |
-| Research practice | Baselines, controlled experiments, evaluation, reproducibility |
-
-### CodeTwin — software change-impact analysis
-
-```text
-Code Change
-    │
-    ▼
-Dependency Analysis
-    │
-    ▼
-Impact Prediction
-    │
-    ▼
-Relevant Test Selection
-    │
-    ▼
-Validation & Evaluation
-```
-
-The research direction is to investigate how static program analysis, repository history, and semantic representations can help predict the impact of code changes.
-
-The emphasis is on measurable results, comparison with baselines, and documenting where the approach succeeds or fails.
-
----
-
-## `08` / ENGINEERING PRINCIPLES
+## `07` / ENGINEERING PRINCIPLES
 
 - **Understand before implementing.** Know the problem and the constraints.
 - **Prefer evidence over assumptions.** Measure performance and evaluate model outputs.
@@ -327,7 +291,7 @@ The emphasis is on measurable results, comparison with baselines, and documentin
 
 ---
 
-## `09` / CONNECT
+## `08` / CONNECT
 
 <p align="center">
   <a href="https://github.com/prasai-ap">
